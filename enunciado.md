@@ -2,6 +2,8 @@
 
 ### Tip: Podés leer este archivo formateado usando la combinación de teclas `Ctrl + Shift + V`
 
+### Importante: Todo el ejercicio debe resolverse de forma ordenada, modularizando las diferentes tareas del programa en funciones, **NO** desarrollar todo el programa en el bloque `if __name__ == '__main__'`
+
 ## Objetivo del ejercicio
 El objetivo de este ejercicio es construir un sistema de guardarropa para un usuario, los requerimientos de nuestra aplicación son los que se detallan a continuación
 
