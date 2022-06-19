@@ -1,8 +1,11 @@
 # Enunciado :card_index:
 
 ### Tip: Podés leer este archivo formateado usando la combinación de teclas `Ctrl + Shift + V`
+#
+## Consideraciones al momento de resolver el ejercicio:
+1. Todo el ejercicio debe resolverse de forma ordenada, modularizando las diferentes tareas del programa en funciones, **NO** desarrollar todo el programa en el bloque `if __name__ == '__main__'`
 
-### Importante: Todo el ejercicio debe resolverse de forma ordenada, modularizando las diferentes tareas del programa en funciones, **NO** desarrollar todo el programa en el bloque `if __name__ == '__main__'`
+2. Para resolver el ejercicio correctamente, **es necesario** que uses las funciones del módulo `tools`
 
 ## Objetivo del ejercicio
 El objetivo de este ejercicio es construir un sistema de guardarropa para un usuario, los requerimientos de nuestra aplicación son los que se detallan a continuación
@@ -23,10 +26,12 @@ El objetivo de este ejercicio es construir un sistema de guardarropa para un usu
 
 ### 2. El sistema debe almacenar los datos en un archivo de tipo CSV, siguiendo la siguiente estructura
 
-```csv
-id | nombre       | categoria       | color
-———+——————————————+—————————————————+——————
-1  | remera vieja | prenda superior | rojo
+```
+|----|-----------------|-----------------|------------|
+| id | nombre          | categoria       | color      |
+|----|-----------------|-----------------|------------|
+|  1 | remera vieja    | prenda superior | rojo       |
+|----|-----------------|-----------------|------------|
 ```
 
 *En el ejemplo, solo hay una prenda cargada, con id = 1, nombre = 'remera vieja', categoria = 'prenda superior', color = 'rojo'*
@@ -46,23 +51,20 @@ Al agregar una nueva prenda al ropero del usuario, esta prenda debe sumarse a su
 
 #
 
-### 4. El usuario debe poder eliminar una prenda de su ropero sabiendo el ID de la prenda
+### 4. El usuario debe poder eliminar una prenda de su ropero sabiendo el **nombre** de la prenda
 Al eliminar una prenda del ropero, esta prenda debe eliminarse del archivo CSV
 
 #
 
-### 5. El usuario debe poder eliminar una prenda de su ropero sabiendo el **nombre** de la prenda
-Al eliminar una prenda del ropero, esta prenda debe eliminarse del archivo CSV
-
-#
-
-### 6. El usuario debe poder solicitarle un outfit al sistema
+### 5. El usuario debe poder solicitarle un outfit al sistema
 Para poder solicitarle un outfit al sistema, se deben cumplir las siguientes condiciones
 
 - El usuario debe tener por lo menos una prenda superior
 - El usuario debe tener por lo menos una prenda inferior
 - El usuario debe tener por lo menos un accesorio
 - El usuario debe tener por lo menos un calzado
+
+#
 
 ### **BONUS**: El usuario debe solicitarle un outfit al sistema indicando un color favorito
 Se deben cumplir las mismas condiciones que en el item **6**, pero en este caso, el usuario indica un color, y el sistema
@@ -74,8 +76,8 @@ El usuario eligió **'rojo'**, y tenemos los siguientes accesorios
 [
     {"id": 1, "nombre": "gorro", "categoria": "accesorio", "color": "blanco"},
     {"id": 5, "nombre": "guantes", "categoria": "accesorio", "color": "verde"},
-    {"id": 5, "nombre": "orejeras", "categoria": "accesorio", "color": "rojo"}
+    {"id": 10, "nombre": "orejeras", "categoria": "accesorio", "color": "rojo"}
 ]
 ```
 
-Al momento de generar el outfit, el sistema deberá seleccionar el accesorio con `"id": 5` (*orejeras*) por encima de los otros accesorios.
+Al momento de generar el outfit, el sistema deberá seleccionar el accesorio con `"id": 10` (*orejeras*) por encima de los otros accesorios.

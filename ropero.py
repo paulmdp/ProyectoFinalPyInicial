@@ -16,6 +16,37 @@ los conceptos aprendidos en el curso:
     - Manejo de archivos CSV (Comma Separated Values)
 '''
 
+
+import csv
+
+
+def ingresar_nueva_prenda():
+    '''
+    IMPORTANTE: No generar los IDs a mano, utilizar la función generar_id()
+    '''
+    print("¡Aún no implementado!")
+    pass
+
+
+def eliminar_prenda_por_nombre():
+    '''
+    Recordatorio: Para modificar un csv, el procedimiento es el siguiente
+        1. Leer todo el archivo y almacenar su resultado en una variable
+        2. Modificar la variable con la modificación que deseamos hacer sobre el archivo
+        3. Sobrescribir el archivo con nuestra variable modificada
+
+    IMPORTANTE: Al finalizar esta función, Reordenar los IDs del CSV.
+    '''
+
+    print("¡Aún no implementado!")
+    pass
+
+
+def generar_outfit():
+    print("¡Aún no implementado!")
+    pass
+
+
 if __name__ == '__main__':
 
     # 1. Preguntarle al usuario qué desea hacer
@@ -28,25 +59,21 @@ if __name__ == '__main__':
 
     while True:
         opcion = int(input(menu))
-        print(f'Elegiste la opción: {opcion}')  # Mostrarle al usuario que elección se guardó
+        print(f'\nElegiste la opción: {opcion}\n')  # Mostrarle al usuario que elección se guardó
 
         if opcion == 1:
             # Ingresar una nueva prenda
-            pass
+            ingresar_nueva_prenda()
 
         elif opcion == 2:
             # Eliminar una prenda por su nombre
-            pass
+            eliminar_prenda_por_nombre()
 
         elif opcion == 3:
-            # Eliminar una prenda por su ID
-            pass
-
-        elif opcion == 4:
             # Solicitar un outfit
-            pass
+            generar_outfit()
 
-        elif opcion == -1:
-            # Salir del bucle
-            pass
+        else:
+            # Finalizar ejecución
+            break
         

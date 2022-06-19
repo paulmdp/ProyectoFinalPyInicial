@@ -1,8 +1,9 @@
-id, nombre,categoria,color
-1, saco viejo,prenda superior,negro
-2, camisa moderna,prenda superior,multicolor
-3, remera basica,prenda superior,blanco
-4, remera polemica,prenda superior,multicolor
-5, pantalon sucio,prenda inferior,beige
-6, zapatillas nuevitas,calzado,azul
-7, gorro de lana, accesorios, violeta
+id,nombre,categoria,color
+1,saco viejo,prenda superior,negro
+2,camisa moderna,prenda superior,multicolor
+3,remera polemica,prenda superior,multicolor
+4,gorro de lana,accesorio,violeta
+5,remera colorida,prenda superior,multicolor
+6,pantalon clasico,prenda inferior,beige
+7,borcegos,calzado,negro
+8,lentes de sol,accesorio,negro
