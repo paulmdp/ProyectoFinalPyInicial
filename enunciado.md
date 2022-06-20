@@ -5,7 +5,7 @@
 ## Consideraciones al momento de resolver el ejercicio:
 1. Todo el ejercicio debe resolverse de forma ordenada, modularizando las diferentes tareas del programa en funciones, **NO** desarrollar todo el programa en el bloque `if __name__ == '__main__'`
 
-2. Para resolver el ejercicio correctamente, **es necesario** que uses las funciones del módulo `tools`
+2. Para resolver el ejercicio correctamente, **es necesario** que uses las funciones del módulo `herramientas`
 
 ## Objetivo del ejercicio
 El objetivo de este ejercicio es construir un sistema de guardarropa para un usuario, los requerimientos de nuestra aplicación son los que se detallan a continuación
