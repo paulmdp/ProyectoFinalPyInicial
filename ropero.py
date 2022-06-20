@@ -25,7 +25,6 @@ def ingresar_nueva_prenda():
     IMPORTANTE: No generar los IDs a mano, utilizar la función generar_id()
     '''
     print("¡Aún no implementado!")
-    pass
 
 
 def eliminar_prenda_por_nombre():
@@ -39,12 +38,10 @@ def eliminar_prenda_por_nombre():
     '''
 
     print("¡Aún no implementado!")
-    pass
 
 
 def generar_outfit():
     print("¡Aún no implementado!")
-    pass
 
 
 if __name__ == '__main__':
