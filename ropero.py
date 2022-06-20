@@ -24,7 +24,7 @@ def ingresar_nueva_prenda():
     '''
     IMPORTANTE: No generar los IDs a mano, utilizar la función generar_id()
     '''
-    print("¡Aún no implementado!")
+    pass
 
 
 def eliminar_prenda_por_nombre():
@@ -36,12 +36,11 @@ def eliminar_prenda_por_nombre():
 
     IMPORTANTE: Al finalizar esta función, Reordenar los IDs del CSV.
     '''
-
-    print("¡Aún no implementado!")
+    pass
 
 
 def generar_outfit():
-    print("¡Aún no implementado!")
+    pass
 
 
 if __name__ == '__main__':
@@ -52,6 +51,7 @@ if __name__ == '__main__':
     1. Ingresar una nueva prenda
     2. Eliminar una prenda
     3. Solicitar un Outfit
+    Cualquier otro valor - Finalizar ejecución del programa
     Opcion elegida:'''
 
     while True:
@@ -60,17 +60,17 @@ if __name__ == '__main__':
 
         if opcion == 1:
             # Ingresar una nueva prenda
-            ingresar_nueva_prenda()
+            print('¡Aún no implementado!')
 
         elif opcion == 2:
             # Eliminar una prenda por su nombre
-            eliminar_prenda_por_nombre()
-
+            print('¡Aún no implementado!')
+            
         elif opcion == 3:
             # Solicitar un outfit
-            generar_outfit()
+            print('¡Aún no implementado!')
 
         else:
             # Finalizar ejecución
-            break
+            print('¡Aún no implementado!')
         
