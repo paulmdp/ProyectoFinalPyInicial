@@ -99,6 +99,15 @@ def reordenar_ids():
 
 
 def buscar_por_categoria(prendas, categoria_buscada):
+    '''
+    Función que se encarga de buscar una prenda de una categoría dentro de una lista de prendas
+    
+    Valores de retorno
+    - Si la función encuentra una prenda de la categoría deseada, devuelve la prenda: 
+        {"id": <id>, "nombre": <nombre>, "categoria": categoria_buscada, "color": <color>}.
+        
+    - Si la función no encuentra ninguna prenda de la categoría deseada, devuelve None.
+    '''
     for prenda in prendas:
 
         # Si la clave 'categoria' de la prenda, es igual a la categoría buscada, devolver esa prenda
