@@ -7,9 +7,10 @@ Autor: Inove Coding School
 Version: 1.0
 
 Descripción: Este módulo contiene las funciones
-    - Buscar una prenda según su categoría
     - Generar un ID para una prenda
     - Reordenar IDs de un archivo CSV
+    - Buscar una prenda según su categoría
+    - Eliminar una prenda de una lista
 '''
 
 import csv

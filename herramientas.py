@@ -10,6 +10,7 @@ Descripción: Este módulo contiene las funciones
     - Buscar una prenda según su categoría
     - Generar un ID para una prenda
     - Reordenar IDs de un archivo CSV
+    - Eliminar una prenda de una lista
 '''
 
 import csv
