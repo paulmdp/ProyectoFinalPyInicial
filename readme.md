@@ -1,9 +1,9 @@
 ![Img Invernadero](img/inverna.jpg)
 Proyecto Invernadero\
 Contacto: pablofiore@gmail.com\
-Web: [Perfil LinkedIn] https://www.linkedin.com/in/pablo-fiore-22774013?
+Web: [Perfil LinkedIn] https://www.linkedin.com/in/pablo-fiore-22774013
 
-# :rocket: Ejercicio integrador: Curso Python Inicial
+# 🍅 : Proyecto Final - Alumno: Pablo D. Fiore: Curso Python Inicial
 
 Con este ejercicio se busca afianzar los siguientes conceptos aprendidos en el curso **Python Inicial**
 - Variables
