@@ -16,6 +16,6 @@ Con este ejercicio final, se busca afianzar los siguientes conceptos aprendidos 
 ## Subtitulo 1
 ### subtitulo 2
 **Letra Negrita**
-
 - `Resaltado fondo`
+
 ![Img Diagrama](img/diag01.png)
