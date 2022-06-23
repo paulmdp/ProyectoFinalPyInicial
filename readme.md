@@ -1,4 +1,4 @@
-![Img Invernadero](img/inverna.jpg)
+![Img Invernadero](img/inverna.png)
 Proyecto Invernadero\
 Contacto: pablofiore@gmail.com\
 Web: [Perfil LinkedIn] https://www.linkedin.com/in/pablo-fiore-22774013
