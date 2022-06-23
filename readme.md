@@ -13,8 +13,8 @@ Con este ejercicio final, se busca afianzar los siguientes conceptos aprendidos 
 - Funciones
 - Manejo de Diccionarios
 - Manejo de archivos
-
-### Letra subtitulo
-* Letra Negrita *
+## Subtitulo 1
+### subtitulo 2
+**Letra Negrita**
 
 - `Resaltado fondo`
