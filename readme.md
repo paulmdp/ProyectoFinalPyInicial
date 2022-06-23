@@ -1,7 +1,7 @@
-![Inove banner](img/inove.jpg)
-Inove Escuela de Código\
-Contacto: info@inove.com.ar\
-Web: [Inove](http://inove.com.ar)
+![Img Invernadero](img/inverna.jpg)
+Proyecto Invernadero\
+Contacto: pablofiore@gmail.com\
+Web: [Perfil LinkedIn](https://www.linkedin.com/in/pablo-fiore-22774013/)
 
 # :rocket: Ejercicio integrador: Curso Python Inicial
 
