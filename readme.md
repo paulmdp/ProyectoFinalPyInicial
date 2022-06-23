@@ -1,5 +1,7 @@
+# Proyecto Invernadero -  Alumno: Pablo D. Fiore
+
 ![Img Invernadero](img/inverna.png)
-## Proyecto Invernadero -  Alumno: Pablo D. Fiore
+
 Contacto: pablofiore@gmail.com\
 Web: [Perfil LinkedIn] https://www.linkedin.com/in/pablo-fiore-22774013
 
@@ -12,10 +14,7 @@ Con este ejercicio final, se busca afianzar los siguientes conceptos aprendidos 
 - Manejo de Diccionarios
 - Manejo de archivos
 
-### Archivos relevantes dentro del repositorio
+### Letra subtitulo
+* Letra Negrita *
 
-- `anexo/`: Contiene resolución del ejercicio
-- `enunciado.md`: Consigna del ejercicio
-- `ropero.py`: Archivo donde se desarrollaŕa el ejercicio
-- `herramientas.py`: Archivo con herramientas para desarrollar el ejercicio
-- `prendas.csv`: Archivo que funcionará como "ropero", donde se guardarán las prendas  
+- `Resaltado fondo`
