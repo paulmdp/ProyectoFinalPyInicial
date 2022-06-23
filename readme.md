@@ -5,7 +5,7 @@ Web: [Perfil LinkedIn] https://www.linkedin.com/in/pablo-fiore-22774013
 
 # 🍅Proyecto Final - Curso Python Inicial
 
-Con este ejercicio se busca afianzar los siguientes conceptos aprendidos en el curso **Python Inicial**
+Con este ejercicio final, se busca afianzar los siguientes conceptos aprendidos en el curso **Python Inicial**
 - Variables
 - Control de Flujo — Condicionales y Bucles
 - Funciones
