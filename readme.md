@@ -38,6 +38,28 @@ Con este ejercicio final, se busca afianzar los siguientes conceptos aprendidos 
 
 - Procesar estos registros y generar informes de valores máximos, mínimos y promedios; brindando esa información al operador para la toma de desiciones.
 
+**Estructura y organización de los datos**
+
+Los datos recolectados en el dispositivo se encuentran en dos memorias SD separadas, una contiene el archivo dataTH.csv y la otra contiene el archivo dataCA.csv.
+Cada dos semanas se deben quitar de los dispositivos estas tarjetas de memoria, traspasar los registros a una computadora para su análisis y eliminar los archivos de las tarjetas SD para que se generen los nuevos datos. 
+Para el archivo dataTH.csv se estima una cantidad aproximada de 1350 registros con la siguiente estructura:
+
+num_registro, 
+hora_registro, 
+fecha_registro, 
+sensor_T01, 
+sensor_T02, 
+sensor_T03, 
+sensor_H01, 
+sensor_H02, 
+sensor_H03, 
+cap_H01, 
+cap_H02, 
+cap_H03,
+
+
+
+
 ## - Diagramas descriptivos del proyecto
 
 ![Img Diagrama](img/diag02.png)
