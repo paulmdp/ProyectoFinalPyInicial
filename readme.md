@@ -13,9 +13,13 @@ Con este ejercicio final, se busca afianzar los siguientes conceptos aprendidos 
 - Funciones
 - Manejo de Diccionarios
 - Manejo de archivos
-## Subtitulo 1
-### subtitulo 2
-**Letra Negrita**
-- `Resaltado fondo`
+
+## Descripción del proyecto
+### Contexto de la idea y selección
+
+
+**Objetivos**
+
+## Diagramas descriptivos del proyecto
 
 ![Img Diagrama](img/diag02.png)
