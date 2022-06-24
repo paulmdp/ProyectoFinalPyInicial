@@ -44,7 +44,7 @@ Los datos recolectados en el dispositivo se encuentran en dos memorias SD separa
 Cada dos semanas se deben quitar de los dispositivos estas tarjetas de memoria, traspasar los registros a una computadora para su análisis y eliminar los archivos de las tarjetas SD para que se generen los nuevos datos. 
 Para el archivo dataTH.csv se estima una cantidad aproximada de 1350 registros con la siguiente estructura:
 
-num_registro, 
+num_registro, 'Número del registro generado, inicia desde el registro 1'
 
 hora_registro, 
 
