@@ -14,12 +14,12 @@ Con este ejercicio final, se busca afianzar los siguientes conceptos aprendidos 
 - Manejo de Diccionarios
 - Manejo de archivos
 
-## Descripción del proyecto
-### Contexto de la idea y selección
+## - Descripción del proyecto
+### -- Contexto de la idea y selección
 
 
 **Objetivos**
 
-## Diagramas descriptivos del proyecto
+## - Diagramas descriptivos del proyecto
 
 ![Img Diagrama](img/diag02.png)
