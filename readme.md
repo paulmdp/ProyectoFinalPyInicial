@@ -18,4 +18,4 @@ Con este ejercicio final, se busca afianzar los siguientes conceptos aprendidos 
 **Letra Negrita**
 - `Resaltado fondo`
 
-![Img Diagrama](img/diag01.png)
+![Img Diagrama](img/diag02.png)
