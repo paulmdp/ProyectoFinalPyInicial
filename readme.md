@@ -45,17 +45,29 @@ Cada dos semanas se deben quitar de los dispositivos estas tarjetas de memoria, 
 Para el archivo dataTH.csv se estima una cantidad aproximada de 1350 registros con la siguiente estructura:
 
 num_registro, 
+
 hora_registro, 
+
 fecha_registro, 
+
 sensor_T01, 
+
 sensor_T02, 
+
 sensor_T03, 
+
 sensor_H01, 
+
 sensor_H02, 
+
 sensor_H03, 
+
 cap_H01, 
+
 cap_H02, 
+
 cap_H03,
+
 
 
 
