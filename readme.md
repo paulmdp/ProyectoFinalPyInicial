@@ -28,11 +28,15 @@ Con este ejercicio final, se busca afianzar los siguientes conceptos aprendidos 
   valores.
   
 **Objetivos**
+
   Diseñar y construir un programa que permita:
-    - Importar los datos almacenados en las tarjetas de memoria SD incorporando esa información a dos archivos maestros en el disco duro de la computadora donde esté
-    corriendo el programa.
-    - Visualizar los registros individuales almacenados en dichos archivos maestros.
-    - Procesar estos registros y generar informes de valores máximos, mínimos y promedios; brindando esa información al operador para la toma de desiciones.
+
+- Importar los datos almacenados en las tarjetas de memoria SD incorporando esa información a dos archivos maestros en el disco duro de la computadora donde esté
+  corriendo el programa.
+
+- Visualizar los registros individuales almacenados en dichos archivos maestros.
+
+- Procesar estos registros y generar informes de valores máximos, mínimos y promedios; brindando esa información al operador para la toma de desiciones.
 
 ## - Diagramas descriptivos del proyecto
 
